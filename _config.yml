@@ -1,0 +1,3 @@
+markdown: redcarpet
+baseurl: /icnms
+exclude: ['README.md',]
