@@ -1,114 +1,232 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	  xmlns:xhtml="http://www.w3.org/1999/xhtml"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd"
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">	  	  
+<!-- www.check-domains.com sitemap generator -->
 
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url>
+   <loc>http://2019.icnms.net/</loc>
+   <lastmod>2018-02-12T17:27:36+00:00</lastmod>
+   <changefreq>monthly</changefreq>
+   <priority>1.0000</priority>
+</url>
+<url>
+   <loc>http://2019.icnms.net/past-events/</loc>
+   <lastmod>2018-02-12T17:27:36+00:00</lastmod>
+   <changefreq>monthly</changefreq>
+   <priority>0.8000</priority>
+</url>
+<url>
+   <loc>http://2019.icnms.net/RAN19_CFP_Flyer.pdf</loc>
+   <lastmod>2018-03-07T14:51:15+00:00</lastmod>
+   <changefreq>monthly</changefreq>
+   <priority>0.8000</priority>
+</url>
+<url>
+   <loc>http://2019.icnms.net/papers/</loc>
+   <lastmod>2018-02-12T17:27:36+00:00</lastmod>
+   <changefreq>monthly</changefreq>
+   <priority>0.6400</priority>
+</url>
+<url>
+   <loc>http://2019.icnms.net/program/</loc>
+   <lastmod>2018-02-12T17:27:36+00:00</lastmod>
+   <changefreq>monthly</changefreq>
+   <priority>0.6400</priority>
+</url>
+<url>
+   <loc>http://2019.icnms.net/dates/</loc>
+   <lastmod>2018-02-12T17:27:37+00:00</lastmod>
+   <changefreq>monthly</changefreq>
+   <priority>0.6400</priority>
+</url>
+<url>
+   <loc>http://2019.icnms.net/registration/</loc>
+   <lastmod>2018-02-12T17:27:36+00:00</lastmod>
+   <changefreq>monthly</changefreq>
+   <priority>0.6400</priority>
+</url>
+<url>
+   <loc>http://2019.icnms.net/committee/</loc>
+   <lastmod>2018-02-12T17:27:37+00:00</lastmod>
+   <changefreq>monthly</changefreq>
+   <priority>0.6400</priority>
+</url>
+<url>
+   <loc>http://2019.icnms.net/keynote/</loc>
+   <lastmod>2018-02-12T17:27:36+00:00</lastmod>
+   <changefreq>monthly</changefreq>
+   <priority>0.6400</priority>
+</url>
+<url>
+   <loc>http://2019.icnms.net/venue/</loc>
+   <lastmod>2018-02-26T20:54:04+00:00</lastmod>
+   <changefreq>monthly</changefreq>
+   <priority>0.6400</priority>
+</url>
+<url>
+   <loc>http://2019.icnms.net/accommodation/</loc>
+   <lastmod>2018-02-26T20:53:46+00:00</lastmod>
+   <changefreq>monthly</changefreq>
+   <priority>0.6400</priority>
+</url>
+<url>
+   <loc>http://2019.icnms.net/sponsor/</loc>
+   <lastmod>2018-02-12T17:27:35+00:00</lastmod>
+   <changefreq>monthly</changefreq>
+   <priority>0.6400</priority>
+</url>
+<url>
+   <loc>http://2019.icnms.net/symposium/</loc>
+   <lastmod>2018-02-12T17:27:35+00:00</lastmod>
+   <changefreq>monthly</changefreq>
+   <priority>0.6400</priority>
+</url>
+<url>
+   <loc>http://2019.icnms.net/past-events/RAN19_CFP_Flyer.pdf</loc>
+   <lastmod>2018-03-07T14:51:15+00:00</lastmod>
+   <changefreq>monthly</changefreq>
+   <priority>0.6400</priority>
+</url>
+<url>
+   <loc>http://2019.icnms.net/terms/</loc>
+   <lastmod>2018-02-12T17:27:35+00:00</lastmod>
+   <changefreq>monthly</changefreq>
+   <priority>0.6400</priority>
+</url>
+<url>
+   <loc>http://2019.icnms.net/sitemap/</loc>
+   <lastmod>2018-02-12T17:27:36+00:00</lastmod>
+   <changefreq>monthly</changefreq>
+   <priority>0.6400</priority>
+</url>
+<url>
+   <loc>http://2019.icnms.net/ICNMS19_Paper_Template.docx</loc>
+   <lastmod>2018-03-07T14:51:15+00:00</lastmod>
+   <changefreq>monthly</changefreq>
+   <priority>0.5120</priority>
+</url>
+<url>
+   <loc>http://2019.icnms.net/ICNMS19_Extended_Abstract.docx</loc>
+   <lastmod>2018-03-07T14:51:15+00:00</lastmod>
+   <changefreq>monthly</changefreq>
+   <priority>0.5120</priority>
+</url>
+<url>
+   <loc>http://2019.icnms.net/ICNMS19_CopyrightForm.pdf</loc>
+   <lastmod>2018-03-07T14:51:15+00:00</lastmod>
+   <changefreq>monthly</changefreq>
+   <priority>0.5120</priority>
+</url>
+<url>
+   <loc>http://2019.icnms.net/papers/RAN19_CFP_Flyer.pdf</loc>
+   <lastmod>2018-03-07T14:51:15+00:00</lastmod>
+   <changefreq>monthly</changefreq>
+   <priority>0.5120</priority>
+</url>
 
-   <url>
-
-      <loc>http://www.icnms.net/index.html</loc>
-
-      <lastmod>2017-04-21</lastmod>
-
-      <priority>0.8</priority>
-
-   </url>
-
-  <url>
-
-      <loc>http://www.icnms.net/papers.html</loc>
-
-      <lastmod>2017-04-21</lastmod>
-
-      <priority>0.8</priority>
-
-   </url>
-
-   <url>
-
-      <loc>http://www.icnms.net/program.html</loc>
-
-      <lastmod>2017-04-21</lastmod>
-
-      <priority>0.8</priority>
-
-   </url>
-
-   <url>
-
-      <loc>http://www.icnms.net/dates.html</loc>
-
-      <lastmod>2017-04-21</lastmod>
-
-      <priority>0.8</priority>
-
-   </url>
-
-   <url>
-
-      <loc>http://www.icnms.net/registration.html</loc>
-
-      <lastmod>2017-04-21</lastmod>
-
-      <priority>0.8</priority>
-
-   </url>
-
-   <url>
-
-      <loc>http://www.icnms.net/committee.html</loc>
-
-      <lastmod>2017-04-21</lastmod>
-
-      <priority>0.8</priority>
-
-   </url>
-
-   <url>
-
-      <loc>http://www.icnms.net/keynote.html</loc>
-
-      <lastmod>2017-04-21</lastmod>
-
-      <priority>0.8</priority>
-
-   </url>
-
-   <url>
-
-      <loc>http://www.icnms.net/sponsor.html</loc>
-
-      <lastmod>2017-04-21</lastmod>
-
-      <priority>0.8</priority>
-
-   </url>
-
-   <url>
-
-      <loc>http://www.icnms.net/venue.html</loc>
-
-      <lastmod>2017-04-21</lastmod>
-
-      <priority>0.8</priority>
-
-   </url>
-
-   <url>
-
-      <loc>http://www.icnms.net/accommodation.html</loc>
-
-      <lastmod>2017-04-21</lastmod>
-
-      <priority>0.8</priority>
-
-   </url>
-
-   <url>
-
-      <loc>http://www.icnms.net/symposium.html</loc>
-
-      <lastmod>2017-04-21</lastmod>
-
-      <priority>0.8</priority>
-
-   </url>
+<url>
+   <loc>http://2019.icnms.net/program/RAN19_CFP_Flyer.pdf</loc>
+   <lastmod>2018-03-07T14:51:15+00:00</lastmod>
+   <changefreq>monthly</changefreq>
+   <priority>0.5120</priority>
+</url>
+<url>
+   <loc>http://2019.icnms.net/dates/RAN19_CFP_Flyer.pdf</loc>
+   <lastmod>2018-03-07T14:51:15+00:00</lastmod>
+   <changefreq>monthly</changefreq>
+   <priority>0.5120</priority>
+</url>
+<url>
+   <loc>http://2019.icnms.net/registration/RAN19_CFP_Flyer.pdf</loc>
+   <lastmod>2018-03-07T14:51:15+00:00</lastmod>
+   <changefreq>monthly</changefreq>
+   <priority>0.5120</priority>
+</url>
+<url>
+   <loc>http://2019.icnms.net/committee/RAN19_CFP_Flyer.pdf</loc>
+   <lastmod>2018-03-07T14:51:15+00:00</lastmod>
+   <changefreq>monthly</changefreq>
+   <priority>0.5120</priority>
+</url>
+<url>
+   <loc>http://2019.icnms.net/keynote/RAN19_CFP_Flyer.pdf</loc>
+   <lastmod>2018-03-07T14:51:15+00:00</lastmod>
+   <changefreq>monthly</changefreq>
+   <priority>0.5120</priority>
+</url>
+<url>
+   <loc>http://2019.icnms.net/venue/RAN19_CFP_Flyer.pdf</loc>
+   <lastmod>2018-03-07T14:51:15+00:00</lastmod>
+   <changefreq>monthly</changefreq>
+   <priority>0.5120</priority>
+</url>
+<url>
+   <loc>http://2019.icnms.net/accommodation/RAN19_CFP_Flyer.pdf</loc>
+   <lastmod>2018-03-07T14:51:15+00:00</lastmod>
+   <changefreq>monthly</changefreq>
+   <priority>0.5120</priority>
+</url>
+<url>
+   <loc>http://2019.icnms.net/sponsor/RAN19_CFP_Flyer.pdf</loc>
+   <lastmod>2018-03-07T14:51:15+00:00</lastmod>
+   <changefreq>monthly</changefreq>
+   <priority>0.5120</priority>
+</url>
+<url>
+   <loc>http://2019.icnms.net/symposium/RAN19_CFP_Flyer.pdf</loc>
+   <lastmod>2018-03-07T14:51:15+00:00</lastmod>
+   <changefreq>monthly</changefreq>
+   <priority>0.5120</priority>
+</url>
+<url>
+   <loc>http://2019.icnms.net/terms/RAN19_CFP_Flyer.pdf</loc>
+   <lastmod>2018-03-07T14:51:15+00:00</lastmod>
+   <changefreq>monthly</changefreq>
+   <priority>0.5120</priority>
+</url>
+<url>
+   <loc>http://2019.icnms.net/sitemap/RAN19_CFP_Flyer.pdf</loc>
+   <lastmod>2018-03-07T14:51:15+00:00</lastmod>
+   <changefreq>monthly</changefreq>
+   <priority>0.5120</priority>
+</url>
+<url>
+   <loc>http://2019.icnms.net/banktobank/</loc>
+   <lastmod>2018-02-12T17:27:37+00:00</lastmod>
+   <changefreq>monthly</changefreq>
+   <priority>0.4096</priority>
+</url>
+<url>
+   <loc>http://2019.icnms.net/moneyorder/</loc>
+   <lastmod>2018-02-12T17:27:36+00:00</lastmod>
+   <changefreq>monthly</changefreq>
+   <priority>0.4096</priority>
+</url>
+<url>
+   <loc>http://2019.icnms.net/paypal/</loc>
+   <lastmod>2018-02-12T17:27:36+00:00</lastmod>
+   <changefreq>monthly</changefreq>
+   <priority>0.4096</priority>
+</url>
+<url>
+   <loc>http://2019.icnms.net/banktobank/RAN19_CFP_Flyer.pdf</loc>
+   <lastmod>2018-03-07T14:51:15+00:00</lastmod>
+   <changefreq>monthly</changefreq>
+   <priority>0.3277</priority>
+</url>
+<url>
+   <loc>http://2019.icnms.net/moneyorder/RAN19_CFP_Flyer.pdf</loc>
+   <lastmod>2018-03-07T14:51:15+00:00</lastmod>
+   <changefreq>monthly</changefreq>
+   <priority>0.3277</priority>
+</url>
+<url>
+   <loc>http://2019.icnms.net/paypal/RAN19_CFP_Flyer.pdf</loc>
+   <lastmod>2018-03-07T14:51:15+00:00</lastmod>
+   <changefreq>monthly</changefreq>
+   <priority>0.3277</priority>
+</url>
 </urlset>
